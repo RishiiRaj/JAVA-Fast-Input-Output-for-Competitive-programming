@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Codechef {
+public class compi {
 	static class FastReader {
 		BufferedReader br;
 		StringTokenizer st;
