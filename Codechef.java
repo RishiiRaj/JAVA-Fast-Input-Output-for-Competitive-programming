@@ -73,7 +73,6 @@ class Codechef {
 		try {
 			int testCases = in.nextInt();
 			while (testCases-- > 0) {
-				// write code here
 				Solve();
 			}
 			out.close();
